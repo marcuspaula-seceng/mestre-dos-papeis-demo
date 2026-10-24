@@ -1,0 +1,25 @@
+{
+  "name": "Mestre dos Papéis — Área do cliente (demonstração)",
+  "short_name": "Mestre dos Papéis",
+  "description": "Acompanhe os seus processos e tire dúvidas com a equipe",
+  "start_url": "/mestre-dos-papeis-demo/cliente/#/processos",
+  "scope": "/mestre-dos-papeis-demo/cliente/",
+  "display": "standalone",
+  "background_color": "#F6F2E9",
+  "theme_color": "#1B2A41",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/mestre-dos-papeis-demo/icone.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/mestre-dos-papeis-demo/icone.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
